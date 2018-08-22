@@ -14,9 +14,6 @@ group :production do
   gem 'pg'
 end
 
-=======
-
->>>>>>> 65740e50abeea636fc65736e92e68c60ccc477f7
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
