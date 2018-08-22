@@ -13,7 +13,7 @@ end
 group :production do
   gem 'pg'
 end
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> 65740e50abeea636fc65736e92e68c60ccc477f7
